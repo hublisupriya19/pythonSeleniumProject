@@ -1,0 +1,16 @@
+[user_input]
+CHROME_DRIVER_PATH = /Users/supriyahubli/Downloads/chromedriver
+WEBSITE_TO_AUTOMATE = https://www.amazon.com/
+VALID_SC_EMAIL_ID = hublisupriya19@gmail.com
+INVALID_SC_EMAIL_ID = hublisupriyaft@gmail.com
+VALID_SC_PASSWORD = Newjob=19
+INVALID_SC_PASSWORD = Newjob19
+ITEM_TO_SEARCH = airpod case
+TEST01_ASSERT_VALUE = Amazon Sign-In
+TEST02_ASSERT_VALUE = We cannot find an account with that email address
+TEST03_ASSERT_VALUE = Password
+TEST04_ASSERT_VALUE = Your password is incorrect
+TEST05_ASSERT_VALUE = Supriya's Amazon.com
+TEST06_ASSERT_VALUE = "airpod case"
+TEST07_ASSERT_VALUE = Airpods Case, Airpods Protective Hard Case Cover with Keychain Compatible with AirPods 2/1 Cute Girls Men Durable Shockproof Anti Lost Case for AirPods Charging Case (Ice Blue Marble)
+TEST08_ASSERT_VALUE = Added to Cart
